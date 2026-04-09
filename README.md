@@ -23,7 +23,8 @@ NAND revenues following a 2026 upcycle peak, with declining revenue growth and g
 margins thereafter. Three alternative scenarios independently stress-test revenue
 and margin assumptions against the base case.
 
-<img width="937" height="686" alt="Income Statement Screenshot" src="https://github.com/user-attachments/assets/6bcebec0-c658-422a-bc5c-6411f55364be" />
+
+<img width="943" height="681" alt="Income Statement Screenshot" src="https://github.com/user-attachments/assets/1cdf977a-afe3-4c5c-b126-915d98914589" />
 
 ---
 
